@@ -1,5 +1,3 @@
-# Street-Hazard-Detection
-
 # YOLO-MAML: Few-Shot Object Detection for Road Damage
 
 This repository implements a **few-shot object detection pipeline** combining **YOLOv8** with **Model-Agnostic Meta-Learning (MAML)**.  
@@ -15,3 +13,16 @@ The goal is to enable road damage detection (e.g., cracks, potholes, and other c
 - **Visualization** of predictions during testing.
 
 ---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Passengerno84/Street-Hazard-Detection-.git
+cd Street-Hazard-Detection-
+
+### 2. Create a virtual environment (recommended):
+```bash
+git clone https://github.com/Passengerno84/Street-Hazard-Detection-.git
+cd Street-Hazard-Detection-
+
