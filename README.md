@@ -34,17 +34,20 @@ python -m venv venv
 ### 3. Activate the environment:
 - **Windows**
 ```bash
-venv\Scripts\activate ```
+venv\Scripts\activate 
+```
 
 - **Linux / macOS**
 ```bash
-source venv/bin/activate ```
+source venv/bin/activate 
+```
 
 ---
 
 ### 4. Install dependencies:
 ```bash
-pip install -r requirements.txt ```
+pip install -r requirements.txt 
+```
 
 ---
 
@@ -55,10 +58,12 @@ Run the main script to start training or testing:
 - **Train the model:**
 ```bash
 python main.py --train
+```
 
 - **Test the model:**
 ```bash
 python main.py --test
+```
 
 ---
 
