@@ -74,13 +74,6 @@ python main.py --test
 
 ---
 
-## ⚠️ Limitations
-- Current results show very low performance on evaluation datasets.
-- Training stability is inconsistent in few-shot settings.
-- NMS filtering discards most predictions due to low confidence.
-
----
-
 ## 🔮 Future Improvements
 - Explore data augmentation and synthetic sample generation.
 - Explore data augmentation and synthetic sample generation
