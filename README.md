@@ -19,7 +19,8 @@ The goal is to enable road damage detection (e.g., cracks, potholes, and other c
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Passengerno84/Street-Hazard-Detection-.git
-cd Street-Hazard-Detection-```
+cd Street-Hazard-Detection-
+```
 
 ---
  
